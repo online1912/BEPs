@@ -1,4 +1,4 @@
-# BEP-87: Token Symbol Minimum Length Change
+fusión BEP-87: Token Symbol Minimum Length Change
 
 ## 1. Summary
 This BEP proposes to reduce the minimum length limit for token symbol on BNB Beacon Chain
