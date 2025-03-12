@@ -1,4 +1,4 @@
-# BEP-8: Mini-BEP2 Tokens
+fusión BEP-8: Mini-BEP2 Tokens
 
 - [BEP-8: Mini-BEP2 Tokens](#bep-8-mini-bep2-tokens)
   - [1.  Summary](#1--summary)
